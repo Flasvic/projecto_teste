@@ -1,0 +1,66 @@
+.logo1 {
+  display: flex;
+  flex-direction: row;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  width: 400;
+  height: 100%;
+  align-items: center;
+  justify-content: center;
+}
+
+.nome {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  width: 100%;
+  background-color: rgb(255, 255, 255);
+  color: rgb(244, 71, 8);
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.input-nome {
+  display:inline;
+  border-radius: 5px;
+  background-color: rgb(255, 255, 255);
+  color: rgb(244, 71, 8);
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  border: 1px solid rgb(244, 71, 8);
+  gap: 5px;
+  
+}
+
+.h3-ti {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+}
+
+.logo-img {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 150px;
+}
+
+.organizar {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+
+}
+
+
+.copyright {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+
+}
+
